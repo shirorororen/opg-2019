@@ -13,7 +13,7 @@ namespace FilesUnitTest
 {
     public class FileTests
     {
-        // Not really exposed to unit testing :)
+        // Not really exposed to unit testing  :)
 
         private IFileProcess _fileProcess;
 
